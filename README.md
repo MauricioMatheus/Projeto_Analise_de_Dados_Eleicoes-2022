@@ -1,1 +1,1 @@
-# Projeto_Analise_de_Dados_Eleicoes-2022
+Projeto realizado na disciplina Aprendizado de Máquina para Ciências da Vida - UFRN (Semestre 2022.2)
